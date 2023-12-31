@@ -11,11 +11,18 @@
 
 Bonjour,
 
-Mon nom est Jean-Luc Astié, et je suis dévellopeur informatique indépendant depuis la fin des années 90. 
-Actuellement à la tête d'une Start-Up (JalTecH Int'l) basée dans les locaux de l'Ecole Polytechnique Fédérale de Lausanne (EPFL). Nous officions dans le domaine para-médical, (Domotique, Machine Learning, etc.) principalement à destination des régions du monde citées précedement.
+Mon nom est Jean-Luc Astié, et je suis dévellopeur informatique
+indépendant depuis la fin des années 90. 
+Actuellement à la tête d'une Start-Up (JalTecH Int'l) basée dans 
+les locaux de l'Ecole Polytechnique Fédérale de Lausanne (EPFL). 
+Nous officions dans le domaine para-médical, (Domotique, Machine 
+Learning, etc.) principalement à destination des pays en voie de 
+développement.
    
    ####################################################
-   
+
 For any questions, mail to jal.jaltech@gamil.com
 
 © 1997-2024 JalTecH (J-L Astié) All rights reserved.
+
+   ####################################################
