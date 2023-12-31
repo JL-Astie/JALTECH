@@ -8,4 +8,8 @@ JalTecH Int'l nait suite à la disparition de Manuel Vitor, en ce concentrant da
 
 ## Grand Prix Racing Online
 ***
-> Cette section couvre les fichiers associés au jeu GPROnline.
+>Cette section couvre les fichiers associés au jeu GPROnline.
+***
+Principalement un fichier de type Excel, contenant les données mis à jour tout au long des 17 courses que dure une saison. 
+
+Quelques fichiers annexes complètent les sources associées au jeu.
