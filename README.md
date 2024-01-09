@@ -1,7 +1,7 @@
 # JALTECH
 
 ***
-AsViSoft est une société fondée en 1997 à Préverenges dans le canton de Vaud (Suisse), par Jean-Luc Astié, Manuel Vitor. (Application de gestion de base de données et comptabilité)
+AsViSoft est une société fondée en 1997 à Préverenges dans le canton de Vaud (Suisse), par Jean-Luc Astié & Manuel Vitor. (Application de gestion de base de données et comptabilité)
 
 ViAsWeb prend le relais en 1999 dans le domaine du Web et plus particulièrement dans le secteur de l'hotellerie, le graphiste Ludovic Barbotin rejoint l'équipe dirigante.
 
